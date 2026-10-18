@@ -2,4 +2,4 @@
 
 Archivos de actualización firmados. No contienen datos de ninguna escuela; el programa solo abre con una licencia válida.
 
-Versión vigente: 2026-10-24
+Versión vigente: 2026-10-25
